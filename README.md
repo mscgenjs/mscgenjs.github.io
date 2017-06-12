@@ -1,4 +1,4 @@
-# Looking for MscGen stuff?
+# Looking for MscGen.js stuff?
 Then you're probably looking for one of these:
 
 - [**online interpreter** for MscGen - mscgen_js](https://sverweij.github.io/mscgen_js/index.html?utm_source=mscgenjs.github.io)
