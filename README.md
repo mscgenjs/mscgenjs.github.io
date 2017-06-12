@@ -7,4 +7,4 @@ Then you're probably looking for one of these:
 - [how to **embed MscGen in html**](https://sverweij.github.io/mscgen_js/embed.html?utm_source=mscgenjs.github.io)
 
 
-(At this spot might arise the interactive interpreter currently residing at https://mscgen.js.org/ and https://sverweij.github.io/mscgen_js one day).
+(At this spot might arise the interactive interpreter currently residing at [mscgen.js.org](https://mscgen.js.org/) and [sverweij.github.io/mscgen_js](https://sverweij.github.io/mscgen_js) one day).
